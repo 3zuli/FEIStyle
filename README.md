@@ -10,7 +10,7 @@
   - [Using *latexmk*](#using-latexmk)
   - [Using Makefile (uses *latexmk*)](#using-makefile-uses-latexmk)
   - [Sublime-text 3 project file](#sublime-text-3-project-file)
-- [Hints and trics](#hints-and-trics)
+- [Hints and tricks](#hints-and-tricks)
   - [Counting words, lines and characters](#counting-words-lines-and-characters)
   - [Installation on macOS](#installation-on-macos)
     - [Updating TeX packages](#updating-tex-packages)
@@ -63,7 +63,7 @@ $ pdflatex file #not a typo!
 ```
 
 ## Using *latexmk*
->**Note**: see [Hints and Trics](https://github.com/Kyslik/FEIStyle#hints-and-trics) section to get information on how to install **letexmk**
+>**Note**: see [Hints and Trics](https://github.com/Kyslik/FEIStyle#hints-and-tricks) section to get information on how to install **letexmk**
 
 Following command runs necessary compile chain.
 
@@ -102,7 +102,7 @@ Repository consists of ST3 project file which includes building your PDF using `
 
 You can also install [LaTeXTools](https://github.com/SublimeText/LaTeXTools) to make build / debug process even easier. File [fei.sublime-project](https://github.com/Kyslik/FEIStyle/blob/master/fei.sublime-project) comes with settings set to build your documentation - just edit `TEXroot` setting.
 
-# Hints and trics
+# Hints and tricks
 search terms:
 
  - latexmk, CTAN, latex, tex, make, Makefile
