@@ -63,7 +63,7 @@ $ pdflatex file #not a typo!
 ```
 
 ## Using *latexmk*
->**Note**: see [Hints and Trics](https://github.com/Kyslik/FEIStyle#hints-and-tricks) section to get information on how to install **letexmk**
+>**Note**: see [Hints and Tricks](https://github.com/Kyslik/FEIStyle#hints-and-trics) section to get information on how to install **letexmk**
 
 Following command runs necessary compile chain.
 
